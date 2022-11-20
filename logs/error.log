@@ -1,0 +1,8 @@
+2022-11-19T11:39:23.985Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-20T10:04:04.487Z | ERROR  | URL : /api/users/v1/login | staus : 401 | message: Invalid email Id or Password* ! Error: Invalid email Id or Password* !
+    at exports.userLogin (/mnt/30D81D15D81CDAC4/web dev/SplitApp-main/components/user.js:74:23)
+2022-11-20T10:04:09.380Z | ERROR  | URL : /api/users/v1/login | staus : 401 | message: Invalid email Id or Password* ! Error: Invalid email Id or Password* !
+    at exports.userLogin (/mnt/30D81D15D81CDAC4/web dev/SplitApp-main/components/user.js:74:23)
+2022-11-20T10:05:20.142Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-20T10:05:45.536Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-20T10:06:18.211Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group

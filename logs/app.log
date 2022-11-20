@@ -1,0 +1,148 @@
+2022-11-19T11:36:46.740Z | INFO   | Server started in PORT | 3001
+2022-11-19T11:36:48.517Z | INFO   | DB Connection Established
+2022-11-19T11:39:22.726Z | INFO   | API HIT : [POST] /api/users/v1/register
+2022-11-19T11:39:22.994Z | INFO   | API HIT : [POST] /api/users/v1/login
+2022-11-19T11:39:23.939Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-19T11:39:23.985Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-19T11:39:24.003Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-19T11:39:31.463Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-19T11:39:32.917Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2022-11-19T11:40:27.097Z | INFO   | API HIT : [POST] /api/users/v1/view
+2022-11-20T10:02:57.657Z | INFO   | Server started in PORT | 3001
+2022-11-20T10:02:59.408Z | INFO   | DB Connection Established
+2022-11-20T10:04:04.115Z | INFO   | API HIT : [POST] /api/users/v1/login
+2022-11-20T10:04:04.487Z | ERROR  | URL : /api/users/v1/login | staus : 401 | message: Invalid email Id or Password* ! Error: Invalid email Id or Password* !
+    at exports.userLogin (/mnt/30D81D15D81CDAC4/web dev/SplitApp-main/components/user.js:74:23)
+2022-11-20T10:04:09.076Z | INFO   | API HIT : [POST] /api/users/v1/login
+2022-11-20T10:04:09.380Z | ERROR  | URL : /api/users/v1/login | staus : 401 | message: Invalid email Id or Password* ! Error: Invalid email Id or Password* !
+    at exports.userLogin (/mnt/30D81D15D81CDAC4/web dev/SplitApp-main/components/user.js:74:23)
+2022-11-20T10:05:18.335Z | INFO   | API HIT : [POST] /api/users/v1/register
+2022-11-20T10:05:18.932Z | INFO   | API HIT : [POST] /api/users/v1/login
+2022-11-20T10:05:20.039Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:05:20.142Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-20T10:05:20.176Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:05:25.089Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:05:28.479Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2022-11-20T10:05:44.573Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:05:45.419Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:05:45.536Z | ERROR  | URL : /api/expense/v1/user | staus : 400 | message: No expense present for the user
+2022-11-20T10:05:45.554Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:05:47.796Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:05:49.270Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2022-11-20T10:06:15.850Z | INFO   | API HIT : [POST] /api/group/v1/add
+2022-11-20T10:06:17.946Z | INFO   | API HIT : [POST] /api/group/v1/view
+2022-11-20T10:06:18.120Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2022-11-20T10:06:18.211Z | ERROR  | URL : /api/expense/v1/group | staus : 400 | message: No expense present for the group
+2022-11-20T10:06:21.470Z | INFO   | API HIT : [POST] /api/group/v1/view
+2022-11-20T10:06:56.730Z | INFO   | API HIT : [POST] /api/expense/v1/add
+2022-11-20T10:07:00.340Z | INFO   | API HIT : [POST] /api/group/v1/view
+2022-11-20T10:07:00.533Z | INFO   | API HIT : [POST] /api/expense/v1/group
+2022-11-20T10:07:00.882Z | INFO   | API HIT : [POST] /api/expense/v1/group/categoryExp
+2022-11-20T10:07:00.892Z | INFO   | API HIT : [POST] /api/expense/v1/group/monthlyExp
+2022-11-20T10:07:01.193Z | INFO   | API HIT : [POST] /api/expense/v1/group/dailyExp
+2022-11-20T10:11:06.680Z | INFO   | API HIT : [POST] /api/users/v1/login
+2022-11-20T10:11:08.630Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:11:08.935Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:11:09.394Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:11:09.397Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:11:09.401Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:11:09.404Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:11:09.551Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:12:40.854Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:12:40.945Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:12:41.309Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:12:41.312Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:12:41.315Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:12:41.320Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:12:41.505Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:12:57.398Z | INFO   | API HIT : [POST] /api/users/v1/view
+2022-11-20T10:13:28.622Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:13:28.813Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:13:29.254Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:13:29.256Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:13:29.260Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:13:29.264Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:13:29.446Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:14:39.684Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:14:39.796Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:14:40.037Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:14:40.042Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:14:40.047Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:14:40.049Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:14:40.290Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:15:16.979Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:15:17.153Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:15:17.605Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:15:17.609Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:15:17.611Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:15:17.613Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:15:17.798Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:18:36.979Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:18:37.241Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:18:37.604Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:18:37.608Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:18:37.611Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:18:37.613Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:18:37.860Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:19:57.569Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:19:57.729Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:19:58.213Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:19:58.218Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:19:58.220Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:19:58.223Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:19:58.344Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:20:23.871Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:20:24.154Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:20:24.519Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:20:24.522Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:20:24.530Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:20:24.533Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:20:24.789Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:20:58.072Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:10.063Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:21:10.223Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:10.663Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:21:10.665Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:10.667Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:21:10.670Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:21:10.849Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:21:45.542Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:21:45.670Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:46.051Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:21:46.056Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:46.060Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:21:46.062Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:21:46.287Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:21:46.780Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:49.172Z | INFO   | API HIT : [GET] /api/users/v1/emailList
+2022-11-20T10:21:50.782Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:21:50.978Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:51.417Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:21:51.418Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:21:51.421Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:21:51.425Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:21:51.614Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:22:25.242Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:22:25.386Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:22:25.811Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:22:25.815Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:22:25.817Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:22:25.818Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:22:26.035Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:29:56.131Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:29:56.339Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:29:56.597Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:29:56.610Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:29:56.612Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:29:56.616Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:29:56.765Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T10:30:14.537Z | INFO   | API HIT : [POST] /api/users/v1/view
+2022-11-20T10:30:22.186Z | INFO   | API HIT : [POST] /api/expense/v1/user
+2022-11-20T10:30:22.564Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:30:23.007Z | INFO   | API HIT : [POST] /api/expense/v1/user/monthlyExp
+2022-11-20T10:30:23.010Z | INFO   | API HIT : [POST] /api/group/v1/user
+2022-11-20T10:30:23.012Z | INFO   | API HIT : [POST] /api/expense/v1/user/recent
+2022-11-20T10:30:23.015Z | INFO   | API HIT : [POST] /api/expense/v1/user/categoryExp
+2022-11-20T10:30:23.195Z | INFO   | API HIT : [POST] /api/expense/v1/user/dailyExp
+2022-11-20T12:05:07.946Z | INFO   | Server started in PORT | 3001
+2022-11-20T12:05:09.638Z | INFO   | DB Connection Established
